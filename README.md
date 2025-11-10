@@ -61,8 +61,13 @@ Python Enhanced Windows Firewall With AI
 - Windows 10/11 or Linux
 - Administrator privileges
 
+### AI trained Models
+- For fresh trained models : delete all files in ai_models folder
+- Using my trained models : don't delete all files in ai_models folder
+
 ### How To Run
-python enhanced_firewall.py
+- pip install -r requirements.txt
+- python enhanced_firewall.py
 
 #### If you like this development, you can donate a little help to the :
 - PayPal : albertflicky@gmail.com
