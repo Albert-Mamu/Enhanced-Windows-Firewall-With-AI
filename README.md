@@ -66,3 +66,6 @@ Python Enhanced Windows Firewall With AI
 - Bitcoin : bc1qxmr748pd90add7nxyjpml9h2q5dl9z8yq0vkq5
 - Solana (SOL) : 5EcfHby6qW3ko5a54YMdMxDgVU9e952JDgeDd9Ec22iU
 - BNB : 0xd738177A1dFF20CBE27BD6aFc23A38C40988a5a1
+
+### Preview
+Youtube : https://youtu.be/GMRuWRfys84
