@@ -61,6 +61,9 @@ Python Enhanced Windows Firewall With AI
 - Windows 10/11 or Linux
 - Administrator privileges
 
+### How To Run
+python enhanced_firewall.py
+
 #### If you like this development, you can donate a little help to the :
 - PayPal : albertflicky@gmail.com
 - Bitcoin : bc1qxmr748pd90add7nxyjpml9h2q5dl9z8yq0vkq5
